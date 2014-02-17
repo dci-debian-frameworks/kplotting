@@ -4,14 +4,14 @@ Priority: optional
 Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
 Build-Depends: debhelper (>= 9.0.0), cmake, pkg-kde-tools,
- extra-cmake-modules, qtbase5-dev, xvfb
+ extra-cmake-modules (>= 0.0.10), qtbase5-dev, xvfb
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kplotting    
 
 Package: libkf5plotting-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5plotting4 (= ${binary:Version}), ${misc:Depends}
 Description: development files for kplotting    
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have
@@ -21,7 +21,7 @@ Description: development files for kplotting
  .
  Contains development files for kplotting    .
  
-Package: libkf5plotting5
+Package: libkf5plotting4
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
@@ -34,12 +34,12 @@ Description: KPlotting provides classes to do plotting.
  to screen pixel units.
 
 
-Package: libkf5plotting5-dbg
+Package: libkf5plotting4-dbg
 Priority: extra
 Section: debug
 Architecture: any
 Multi-Arch: same
-Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5plotting4 (= ${binary:Version}), ${misc:Depends}
 Description: debug symbols for kplotting    
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have
