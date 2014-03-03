@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 4.96.0 amd64
-libKF5Plotting.so.4 libkf5plotting4 #MINVER#
+libKF5Plotting.so.5 libkf5plotting5 #MINVER#
  _ZN10KPlotPoint11setBarWidthEd@Base 4.96.0
  _ZN10KPlotPoint11setPositionERK7QPointF@Base 4.96.0
  _ZN10KPlotPoint4setXEd@Base 4.96.0
