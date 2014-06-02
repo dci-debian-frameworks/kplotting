@@ -25,7 +25,7 @@ Description: development files for kplotting
  to screen pixel units.
  .
  Contains development files for kplotting.
- 
+
 Package: libkf5plotting5
 Architecture: any
 Multi-Arch: same

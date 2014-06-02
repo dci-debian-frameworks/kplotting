@@ -1,6 +1,11 @@
 kplotting (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Jonathan Riddell ]
   * New upstream beta release
+
+  [ José Manuel Santamaría Lema ]
+  * Re-add libkf5plotting-dev after faulty wrap-and-sort.
+  * Install *.pri files in arch dependent path.
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:43:11 +0100
 
