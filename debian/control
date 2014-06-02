@@ -15,7 +15,8 @@ Homepage: https://projects.kde.org/projects/frameworks/kplotting
 Package: libkf5plotting-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends}
+Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends},
+ qtbase5-dev
 Description: development files for kplotting    
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have
