@@ -24,12 +24,12 @@ License: LGPL-2+
  .
  On Debian systems, the complete text of the GNU Library General
  Public License version 2 can be found in "/usr/share/common-licenses/LGPL-2".
- 
+
 Files: debian/*
        examples/* excluding:
        examples/CMakeLists.txt
-Copyright:2014 Scarlett Clark <scarlett@scarlettgatelyclark.com> 
-	  2006 by Jason Harris <kstars@30doradus.org>	  
+Copyright:2014 Scarlett Clark <scarlett@scarlettgatelyclark.com>
+	  2006 by Jason Harris <kstars@30doradus.org>
 License: GPL-2+
  This package is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

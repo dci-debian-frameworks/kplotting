@@ -5,7 +5,7 @@ Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
 XSBC-Original-Maintainer: Jonathan Riddell <jriddell@ubuntu.com>
 Build-Depends: cmake,
                debhelper (>= 9.0.0),
-               extra-cmake-modules (>= 0.0.13),
+               extra-cmake-modules (>= 0.0.14),
                pkg-kde-tools,
                qtbase5-dev,
                xvfb
@@ -15,9 +15,8 @@ Homepage: https://projects.kde.org/projects/frameworks/kplotting
 Package: libkf5plotting-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends},
- qtbase5-dev
-Description: development files for kplotting    
+Depends: libkf5plotting5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
+Description: development files for kplotting
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have
  to specify information in "data units"; i.e., the natural units of the
@@ -30,7 +29,7 @@ Package: libkf5plotting5
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: KPlotting provides classes to do plotting.
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have

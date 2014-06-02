@@ -7,6 +7,10 @@ kplotting (4.100.0-0ubuntu1) UNRELEASED; urgency=medium
   * Re-add libkf5plotting-dev after faulty wrap-and-sort.
   * Install *.pri files in arch dependent path.
 
+  [ Scarlett Clark ]
+  * Bump depends versions
+  * Bump depends versions
+
  -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 02 Jun 2014 13:43:11 +0100
 
 kplotting (4.99.0-0ubuntu1) trusty; urgency=medium
