@@ -12,6 +12,8 @@ Build-Depends: cmake,
                xvfb
 Standards-Version: 3.9.5
 Homepage: https://projects.kde.org/projects/frameworks/kplotting
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/kplotting
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging-next/kplotting
 
 Package: libkf5plotting-dev
 Section: libdevel
