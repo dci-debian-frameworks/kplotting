@@ -5,6 +5,7 @@ kplotting (5.6.0-1~) UNRELEASED; urgency=medium
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update install files.
   * Update copyright information.
+  * Add basic autopkgtests support.
 
  -- Maximiliano Curia <maxy@debian.org>  Fri, 23 Jan 2015 15:56:28 +0100
 
