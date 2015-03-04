@@ -7,7 +7,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev,
+               qtbase5-dev (>= 5.2.0),
                xauth,
                xvfb
 Standards-Version: 3.9.6
