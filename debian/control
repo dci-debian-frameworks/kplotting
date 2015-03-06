@@ -3,7 +3,7 @@ Section: libs
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
+Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 1.7.0),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
@@ -19,7 +19,9 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kplotting.git
 Package: libkf5plotting-dev
 Section: libdevel
 Architecture: any
-Depends: libkf5plotting5 (= ${binary:Version}), qtbase5-dev, ${misc:Depends}
+Depends: libkf5plotting5 (= ${binary:Version}),
+         qtbase5-dev (>= 5.2.0),
+         ${misc:Depends}
 Description: development files for kplotting
  KPlotWidget is a QWidget-derived class that provides a virtual base class
  for easy data-plotting. The idea behind KPlotWidget is that you only have
