@@ -1,8 +1,8 @@
-kplotting (5.8.0-1~) UNRELEASED; urgency=medium
+kplotting (5.8.0-1) experimental; urgency=medium
 
   * New upstream release (5.8.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Mar 2015 10:21:53 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Mar 2015 22:27:00 +0100
 
 kplotting (5.7.0-1) experimental; urgency=medium
 
