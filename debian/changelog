@@ -1,8 +1,8 @@
-kplotting (5.9.0-0ubuntu1) UNRELEASED; urgency=medium
+kplotting (5.9.0-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Apr 2015 11:04:09 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:34:04 +0200
 
 kplotting (5.8.0-0ubuntu1) vivid; urgency=medium
 
