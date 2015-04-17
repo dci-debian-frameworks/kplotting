@@ -4,11 +4,23 @@ kplotting (5.9.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 16 Apr 2015 10:21:08 +0200
 
+kplotting (5.9.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 13 Apr 2015 22:34:04 +0200
+
 kplotting (5.8.0-1) experimental; urgency=medium
 
   * New upstream release (5.8.0).
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Mar 2015 22:27:00 +0100
+
+kplotting (5.8.0-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 17 Mar 2015 15:44:38 +0100
 
 kplotting (5.7.0-1) experimental; urgency=medium
 
