@@ -1,9 +1,9 @@
-kplotting (5.11.0-1~) UNRELEASED; urgency=medium
+kplotting (5.11.0-1) unstable; urgency=medium
 
   * New upstream release (5.10.0).
   * New upstream release (5.11.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 25 Jun 2015 15:35:21 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Jun 2015 14:25:48 +0200
 
 kplotting (5.9.0-1) experimental; urgency=medium
 
