@@ -1,4 +1,4 @@
-# SymbolsHelper-Confirmed: 4.96.0 amd64
+# SymbolsHelper-Confirmed: 5.12.0 amd64
 libKF5Plotting.so.5 libkf5plotting5 #MINVER#
  _ZN10KPlotPoint11setBarWidthEd@Base 4.96.0
  _ZN10KPlotPoint11setPositionERK7QPointF@Base 4.96.0
@@ -60,6 +60,7 @@ libKF5Plotting.so.5 libkf5plotting5 #MINVER#
  _ZN11KPlotWidget20clearSecondaryLimitsEv@Base 4.96.0
  _ZN11KPlotWidget20removeAllPlotObjectsEv@Base 4.96.0
  _ZN11KPlotWidget21setObjectToolTipShownEb@Base 4.96.0
+ _ZN11KPlotWidget24setAutoDeletePlotObjectsEb@Base 5.12.0
  _ZN11KPlotWidget4axisENS_4AxisE@Base 4.96.0
  _ZN11KPlotWidget5eventEP6QEvent@Base 4.96.0
  _ZN11KPlotWidget7Private18calcDataRectLimitsEdddd@Base 4.96.0
