@@ -7,6 +7,9 @@ kplotting (5.12.0-0ubuntu1) UNRELEASED; urgency=medium
   * Update symbols files:
     - Add a new symbol; this doesn't break compilation on gcc 5 nor gcc 4
 
+  [ Scarlett Clark ]
+  * Vivid backport. 
+
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Jul 2015 08:21:20 -0700
 
 kplotting (5.11.0-1) unstable; urgency=medium
