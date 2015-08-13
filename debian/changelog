@@ -1,9 +1,9 @@
-kplotting (5.13.0-1~) UNRELEASED; urgency=medium
+kplotting (5.13.0-1) unstable; urgency=medium
 
   * New upstream release (5.13.0).
   * Drop XS-Testsuite field
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 13 Aug 2015 13:30:55 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 13 Aug 2015 13:57:54 +0200
 
 kplotting (5.12.0-1) unstable; urgency=medium
 
