@@ -11,7 +11,6 @@ Build-Depends: cmake (>= 2.8.12),
                xauth,
                xvfb
 Standards-Version: 3.9.6
-XS-Testsuite: autopkgtest
 Homepage: https://projects.kde.org/projects/frameworks/kplotting
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/frameworks/kplotting.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/frameworks/kplotting.git
