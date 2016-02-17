@@ -7,9 +7,7 @@ Build-Depends: cmake (>= 2.8.12),
                debhelper (>= 9),
                extra-cmake-modules (>= 5.18.0~),
                pkg-kde-tools (>= 0.15.15ubuntu1~),
-               qtbase5-dev (>= 5.4),
-               xauth,
-               xvfb
+               qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/frameworks/kplotting
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/frameworks/kplotting.git
@@ -40,18 +38,3 @@ Description: KPlotting provides classes to do plotting.
  to specify information in "data units"; i.e., the natural units of the
  data being plotted.  KPlotWidget automatically converts everything
  to screen pixel units.
-
-Package: libkf5plotting5-dbg
-Section: debug
-Priority: extra
-Architecture: any
-Multi-Arch: same
-Depends: libkf5plotting5 (= ${binary:Version}), ${misc:Depends}
-Description: debug symbols for kplotting
- KPlotWidget is a QWidget-derived class that provides a virtual base class
- for easy data-plotting. The idea behind KPlotWidget is that you only have
- to specify information in "data units"; i.e., the natural units of the
- data being plotted.  KPlotWidget automatically converts everything
- to screen pixel units.
- .
- Contains debug symbols for kplotting.
