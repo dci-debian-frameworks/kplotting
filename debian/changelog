@@ -1,13 +1,14 @@
-kplotting (5.20.0-1~1.gbp3c6401) UNRELEASED; urgency=medium
+kplotting (5.20.0-1~2.gbp767219) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @3c6401c308c73cff22e7617d30ddcb4f0d381406 **
+  ** SNAPSHOT build @767219fdfa736db9f589c3c1015bfc141c12b9f5 **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 28 Mar 2016 14:37:57 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Mon, 28 Mar 2016 18:22:22 +0200
 
 kplotting (5.19.0-1) experimental; urgency=medium
 
