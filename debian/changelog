@@ -1,6 +1,6 @@
-kplotting (5.20.0-1~8.gbp7890ac) UNRELEASED; urgency=medium
+kplotting (5.20.0-1~9.gbp70a141) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @7890ac0d8c9c218fe6106efac713dfe95bd99840 **
+  ** SNAPSHOT build @70a141cd137fc0bac2e97b66e22d462cb2c5775c **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
   * Add upstream metadata (DEP-12)
@@ -13,8 +13,9 @@ kplotting (5.20.0-1~8.gbp7890ac) UNRELEASED; urgency=medium
   * UNRELEASED
   * UNRELEASED
   * Update acc test script
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 01 Apr 2016 17:18:15 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:18:27 +0200
 
 kplotting (5.19.0-1) experimental; urgency=medium
 
