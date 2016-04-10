@@ -1,5 +1,8 @@
-kplotting (5.20.0-1~9.gbp70a141) UNRELEASED; urgency=medium
+kplotting (5.21.0-1~1.gbp64322f) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @64322fec8d311f0d6d21e7a9e7b1e30aaa7b6f92 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @70a141cd137fc0bac2e97b66e22d462cb2c5775c **
 
   * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
@@ -14,8 +17,14 @@ kplotting (5.20.0-1~9.gbp70a141) UNRELEASED; urgency=medium
   * UNRELEASED
   * Update acc test script
   * UNRELEASED
+  * uscan no longer supports more than one main upstream tarball being listed
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Fri, 01 Apr 2016 17:18:27 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:18:18 +0200
 
 kplotting (5.19.0-1) experimental; urgency=medium
 
