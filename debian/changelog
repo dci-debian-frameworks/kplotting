@@ -1,3 +1,9 @@
+kplotting (5.21.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release, xenial backport.
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 26 Apr 2016 10:55:52 -0700
+
 kplotting (5.18.0-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Scarlett Clark ]
