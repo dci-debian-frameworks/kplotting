@@ -1,6 +1,6 @@
-kplotting (5.21.0-1~1.gbp64322f) UNRELEASED; urgency=medium
+kplotting (5.21.0-1~2.gbpee4d3d) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @64322fec8d311f0d6d21e7a9e7b1e30aaa7b6f92 **
+  ** SNAPSHOT build @ee4d3d9f2fa9b00efb796cb8a5bd76350a39492c **
 
   [ Maximiliano Curia ]
   ** SNAPSHOT build @70a141cd137fc0bac2e97b66e22d462cb2c5775c **
@@ -21,10 +21,11 @@ kplotting (5.21.0-1~1.gbp64322f) UNRELEASED; urgency=medium
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
+  * Bump Standards-Version to 3.9.8
 
   [ Maximiliano Curia ]
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Sun, 10 Apr 2016 10:18:18 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Sat, 30 Apr 2016 20:05:44 +0200
 
 kplotting (5.19.0-1) experimental; urgency=medium
 
