@@ -1,10 +1,9 @@
-kplotting (5.23.0-1~1.gbp92a9f3) UNRELEASED; urgency=medium
+kplotting (5.23.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @92a9f3685c90eb539e9cbd369d62b36fd2fe0a22 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Mon, 13 Jun 2016 00:18:32 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 18 Jun 2016 08:21:28 +0200
 
 kplotting (5.22.0-1) unstable; urgency=medium
 
