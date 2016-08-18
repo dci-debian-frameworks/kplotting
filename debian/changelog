@@ -1,17 +1,12 @@
-kplotting (5.25.0-1~2.gbp18e114) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @18e114be140df7d3748f003d1c1258ba548daa6c **
+kplotting (5.25.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @4f479446d4b7e394fc14b916d7b1c3bc61fb226b **
-
-  * Update build-deps and deps with the info from cmake
   * Update build-deps and deps with the info from cmake
 
   [ Maximiliano Curia ]
   * Bump group breaks (5.25)
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Wed, 17 Aug 2016 22:18:19 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 18 Aug 2016 17:19:19 +0200
 
 kplotting (5.23.0-1) unstable; urgency=medium
 
