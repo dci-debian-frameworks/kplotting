@@ -27,7 +27,7 @@ Description: development files for kplotting
  to screen pixel units.
  .
  Contains development files for kplotting.
-Breaks: libkf5kdelibs4support-dev (<< 5.36)
+Breaks: libkf5kdelibs4support-dev (<< 5.37)
 
 Package: libkf5plotting5
 Architecture: any
@@ -39,4 +39,4 @@ Description: KPlotting provides classes to do plotting.
  to specify information in "data units"; i.e., the natural units of the
  data being plotted.  KPlotWidget automatically converts everything
  to screen pixel units.
-Breaks: kdesignerplugin (<< 5.36)
+Breaks: kdesignerplugin (<< 5.37)
