@@ -46,6 +46,7 @@ Description: KPlotting provides classes to do plotting (documentation)
  to screen pixel units.
  .
  This package contains the qch documentation files.
+Section: doc
 
 Package: libkf5plotting5
 Architecture: any
