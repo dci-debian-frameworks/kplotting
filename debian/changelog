@@ -2,7 +2,7 @@ kplotting (5.41.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.41.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 12 Dec 2017 15:56:10 -0300
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Sep 2017 16:53:16 +0200
 
 kplotting (5.41.0-0neon) xenial; urgency=medium
 
@@ -264,16 +264,6 @@ kplotting (5.18.0-1) experimental; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 13:34:03 +0100
 
-kplotting (5.18.0-0ubuntu1) UNRELEASED; urgency=medium
-
-  [ Scarlett Clark ]
-  * New upstream release Xenial
-
-  [ Philip Muškovac ]
-  * New upstream release
-
- -- Philip Muškovac <yofel@kubuntu.org>  Wed, 06 Jan 2016 15:06:52 +0100
-
 kplotting (5.16.0-1) unstable; urgency=medium
 
   * New upstream release (5.16.0).
@@ -344,7 +334,7 @@ kplotting (5.12.0-0ubuntu1) wily; urgency=medium
     - Add a new symbol; this doesn't break compilation on gcc 5 nor gcc 4
 
   [ Scarlett Clark ]
-  * Vivid backport. 
+  * Vivid backport.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 03 Aug 2015 16:07:59 +0200
 
