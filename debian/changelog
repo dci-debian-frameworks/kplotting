@@ -1,8 +1,13 @@
-kplotting (5.41.0-1~) UNRELEASED; urgency=medium
+kplotting (5.41.0-1) experimental; urgency=medium
 
   * New upstream release (5.41.0).
+  * Bump Standards-Version to 4.1.2.
+  * Update build-deps and deps with the info from cmake
+  * Update symbols files
+  * Bump group breaks (5.41)
+  * Release to experimental
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Sep 2017 16:53:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 15 Dec 2017 10:43:01 -0300
 
 kplotting (5.41.0-0neon) xenial; urgency=medium
 
